@@ -1,2 +1,6 @@
 # RandomQuantization
-This is the code of paper Rethinking Graph Convolutional Networks in Knowledge Graph Completion. Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu. WWW 2022.
+This is the code of paper 
+**Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation**. 
+Jiaang Li, Quan Wang, Yi Liu, Licheng Zhang, Zhendong Mao. EMNLP 2023.
+
+The code will be released soon.
