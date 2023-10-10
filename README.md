@@ -1,2 +1,2 @@
 # RandomQuantization
-Source code for the paper "Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation" in EMNLP 2023
+This is the code of paper Rethinking Graph Convolutional Networks in Knowledge Graph Completion. Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu. WWW 2022.
