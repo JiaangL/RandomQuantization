@@ -1,12 +1,17 @@
 # RandomQuantization
-Release the code for our EMNLP 2023 paper: 
+Release the code of
 [Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation](https://arxiv.org/abs/2310.15797#). 
+This paper has been accepted by **EMNLP 2023** main conference.
+
+<div  align="center">  
+<img src="./intro.pdf" alt="Entity Quantization" align=center />
+</div>  
 
 ![](./EntityQuantization.png)
 
 ## Preparation
 ### Enviroment
-The code is tested under ```torch==1.12.0``` and ```dgl==1.0.0``. The requirements of specific version is not very strict. Run with no bugs, then you are set.
+The code is tested under ```torch==1.12.0``` and ```dgl==1.0.0```. The requirements of specific version is not very strict. Run with no bugs, then you are set.
 ### Data
 Datasets we used are in ```./data```. Unzip the files before using them. If you want to run without the random entity quantization and test the original EARL quantization strategy, please use ```pre_process.ipynb``` to process the data.
 
