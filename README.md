@@ -2,7 +2,7 @@
 Release the code for our EMNLP 2023 paper: 
 [Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation](https://arxiv.org/abs/2310.15797#). 
 
-![](./intro.pdf)
+![](./EntityQuantization.png)
 
 ## Preparation
 ### Enviroment
