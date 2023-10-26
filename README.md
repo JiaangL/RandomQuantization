@@ -4,10 +4,8 @@ Release the code of
 This paper has been accepted by **EMNLP 2023** main conference.
 
 <div  align="center">  
-<img src="./intro.pdf" alt="Entity Quantization" align=center />
+<img src="./EntityQuantization.png" width = "600" height = "375" alt="EntityQuantization" align=center />
 </div>  
-
-![](./EntityQuantization.png)
 
 ## Preparation
 ### Enviroment
