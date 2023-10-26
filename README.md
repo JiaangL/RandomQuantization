@@ -14,11 +14,9 @@ The code is tested under ```torch==1.12.0``` and ```dgl==1.0.0```. The requireme
 Datasets we used are in ```./data```. Unzip the files before using them. If you want to run without the random entity quantization and test the original EARL quantization strategy, please use ```pre_process.ipynb``` to process the data.
 
 ## Run
-Run the random entity quantization by running this script
-```
-bash run.sh
-```
-Open ```--code_level_distinguish``` and ```--codeword_level_distinguish``` to view the entropy and nearest neighbor Jaccard distance of the entity codes. Experiments are tracked by [WandB](https://wandb.ai/site) if setting ```--wandb True```.
+Run the random entity quantization by running ```bash run.sh```.
+
+In this script, you can open ```--code_level_distinguish``` and ```--codeword_level_distinguish``` to view the entropy and nearest neighbor Jaccard distance of the entity codes. Experiments are tracked by [WandB](https://wandb.ai/site) if setting ```--wandb True```.
 
 ## Acknowledgement
 This repo benifits from [NodePiece](https://github.com/migalkin/NodePiece) and [EARL](https://github.com/zjukg/EARL). Thanks for their wonderful works.
