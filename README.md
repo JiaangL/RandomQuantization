@@ -2,7 +2,7 @@
 Release the code for our EMNLP 2023 paper: 
 [Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation](https://arxiv.org/abs/2310.15797#). 
 
-![](./fig/intro.pdf)
+![](./intro.pdf)
 
 ## Preparation
 ### Enviroment
@@ -16,6 +16,9 @@ Run the random entity quantization by running this script
 bash run.sh
 ```
 Open ```--code_level_distinguish``` and ```--codeword_level_distinguish``` to view the entropy and nearest neighbor Jaccard distance of the entity codes. Experiments are tracked by [WandB](https://wandb.ai/site) if setting ```--wandb True```.
+
+## Acknowledgement
+This repo benifits from [NodePiece](https://github.com/migalkin/NodePiece) and [EARL](https://github.com/zjukg/EARL). Thanks for their wonderful works.
 
 ## Contact and Citations
 Feel free to leave issues or [contact us](mailto:jali@mail.ustc.edu.cn) if you have any questions.
