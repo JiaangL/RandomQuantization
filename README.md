@@ -23,14 +23,12 @@ This repo benifits from [NodePiece](https://github.com/migalkin/NodePiece) and [
 
 ## Contact and Citations
 Feel free to leave issues or [contact us](mailto:jali@mail.ustc.edu.cn) if you have any questions.
-If you find this repo useful, please cite our paper as (for now):
+If you find this repo useful, please cite our paper as (will be updated after EMNLP2023 proceeding is available):
 ```
-@misc{li2023random,
-      title={Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation}, 
-      author={Jiaang Li and Quan Wang and Yi Liu and Licheng Zhang and Zhendong Mao},
-      year={2023},
-      eprint={2310.15797},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{li2023random,
+  title={Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation},
+  author={Li, Jiaang and Wang, Quan and Liu, Yi and Zhang, Licheng and Mao, Zhendong},
+  journal={arXiv preprint arXiv:2310.15797},
+  year={2023}
 }
 ```
